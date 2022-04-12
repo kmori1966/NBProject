@@ -1,3 +1,6 @@
+# 충돌 원인이었던 폴더 모두 제외
+META-INF/
+
 # Compiled class file
 *.class
 
